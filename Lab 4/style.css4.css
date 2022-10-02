@@ -1,0 +1,31 @@
+
+body{
+    background-color: blue;
+}
+
+
+.border{
+    border-style: solid;
+    border-width: 5px;
+    margin-top: 150px;
+    margin-bottom: 200px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.border-text{
+    color: red;
+    border-style: dashed;
+    border-color: green;
+    margin-left: 30px;
+    margin-right: 20px;
+}
+
+img{
+    position:relative;
+    width: 500px;
+    height: 500x;
+    padding: 20px;
+    border: 2px yellow;
+    border-style: dashed;
+}

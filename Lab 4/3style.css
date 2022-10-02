@@ -1,0 +1,24 @@
+.background{
+    background-color: green ;
+}
+
+.box{
+    border-style: dashed;
+    border-width: 2px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.p-1{
+    text-indent: 10px;
+    color: red;
+}
+
+.p-2{
+    text-indent: 10px;
+    color: darkgreen;
+}
+
+.p-3{
+    color: purple;
+}

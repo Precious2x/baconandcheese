@@ -1,0 +1,41 @@
+.border{
+    border-style: dotted;
+    border-color: purple;
+    border-width: 3px;
+    padding-top: 200px;
+   }
+   
+   .border-content{
+       text-align: center;
+       padding-bottom: 5px;
+   }
+   
+   .tiny-1{
+       color: green;
+       text-align: center;
+       font-size: 12px;
+   }
+   
+   .psuper{
+       font-size: 30px;
+       color: orange;
+   }
+   
+   .super{
+       color: red;
+       font-size: 30px;
+   }
+   
+   .tiny-2{
+       text-align: right;
+       color: purple;
+       font-size: 8px;
+   }
+   
+   .tiny-span{
+       color: yellow;
+       font-style: italic;
+       text-transform: uppercase;
+   }
+   
+   
