@@ -1,0 +1,43 @@
+body{
+	color: black;
+	background-color:green;
+    margin:0px;
+    border: 6px solid white;
+    padding:50px
+}
+
+
+#wrapper{
+	width:1000px;
+    height:900px;
+    margin:auto;
+}
+
+
+#left{
+	width:270px;
+	height:270px;
+	background-color:blue;
+    padding: 4px;
+    float:left
+}
+
+#right{ 
+    width:270px;
+    height:270px;
+    background-color: red;
+    padding: 4px;
+    float:right;
+    
+}
+
+#main{
+    width: 270px;
+    height:270px;
+    background-color:yellow;
+    margin:360px;
+    padding:4px;
+    clear: both;
+}
+
+
