@@ -1,43 +1,39 @@
 body{
 	color: black;
 	background-color:green;
-    margin:0px;
-    border: 6px solid white;
-    padding:50px
 }
 
 
 #wrapper{
-	width:1000px;
-    height:900px;
-    margin:auto;
+	width:800px;
+    height: 700px;
+    margin: auto;
+	background-color:white;
 }
 
 
-#left{
-	width:270px;
-	height:270px;
+#leftbody{
+	width:280px;
+	height:50px;
 	background-color:blue;
-    padding: 4px;
-    float:left
+	padding:15px;
+    float: left;
 }
 
-#right{ 
-    width:270px;
-    height:270px;
+ 
+#mainbody{
+    width: 280px;
+    height:50px;
+    background-color: yellow;
+    float:center;
+    padding: 15px;
+}
+
+
+#rightbody{
     background-color: red;
-    padding: 4px;
-    float:right;
-    
+    width:280px;
+    height:50px;
+    padding: 15px;
+    float:right;   
 }
-
-#main{
-    width: 270px;
-    height:270px;
-    background-color:yellow;
-    margin:360px;
-    padding:4px;
-    clear: both;
-}
-
-
