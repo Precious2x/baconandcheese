@@ -36,6 +36,7 @@ ol{
     margin-right:5px;
  background-color: white;
 }
+
 p{
     font: optional;
     color: lightgreen;
@@ -73,4 +74,8 @@ p{
 p,h1,h2{
     font-size: xx-large;
     font-style: oblique;
+}
+
+#absolute{
+position: absolute;
 }
