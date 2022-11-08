@@ -1,0 +1,196 @@
+body{
+    background-color: rgb(237, 231, 225);
+    color: white;
+    padding-left:30px;
+    padding-right: 30px;
+}
+
+#header{
+    position: absolute;
+    text-align:center;
+    padding: 30px;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    border: 2px;
+    background-color: rgb(45, 43, 43);
+    position:-webkit-sticky; /*Google*/
+    position:sticky
+   
+}
+
+li{
+    float:left;
+}
+
+li a{
+    display: block;
+    color: orange;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    position:relative;
+}
+
+li a:hover:not(.active){
+    background-color:black;
+}
+
+li a.active{
+    color:white;
+    background-color: beige;
+
+}
+
+#Wrapper{
+    background-color: black;
+    color: white;
+    width: 1360px;
+    height: 120px;
+    padding-top:10px ;
+    text-align: center;
+    font-size:xx-large;
+    position:relative;
+    font-weight: bolder;
+
+}
+
+h1{
+    text-align: center;
+    color: black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    
+}
+
+div{
+    background-color: black;
+    border: 5px;
+    color: orange;
+    border-color:white;
+    width:260px;
+    height:200px;
+    text-align:center;
+    padding: 15px;;
+    float:left;
+    margin: 30px;
+}
+
+.div2{
+    background-color: black;
+    border:5px;
+    border-color: white;
+    width:260px ;
+    height:200px;
+    text-align: center;
+}
+
+.div3{
+    background-color: black;
+    border:5px;
+    border-color: white;
+    width:260px;
+    height:200px;
+    text-align: center;
+}
+
+.div4{
+    background-color: black;
+    border:5px;
+    border-color: white;
+    width:260px;
+    height:200px;
+    margin:5px;
+    text-align: center;
+    float:right; 
+}
+
+#order{
+    float: left;
+    background-color: black;
+    color: white;
+    width:120px;
+    height:400px;
+    font-size: x-large;
+}
+
+#spec{
+    background-color: black;
+    width:600px;
+    height:400px;
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+}
+
+#main{
+    background-color: black;
+    width:400px;
+    height:600px;
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+    float: right;
+}
+
+#share{
+    background-color: black;
+    width: 800px;
+    height:200px;
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+    float:left;
+}
+
+#add{
+    background-color: black;
+    width:415px;
+    color: white;
+    height:250px;
+    text-align: center;
+    font-size: xx-large;
+}
+
+#kids{
+    background-color: black;
+    width:400px;
+    height: 100px;
+    text-align: center;
+    font-size: xx-large;
+    float:right;
+    color: white;
+}
+
+#food{
+    background-color: black;
+    width: 800px;
+    height: 300px;
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+
+}
+
+#drink{
+    background-color: black;
+    width:800px;
+    height:100px;
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+}
+
+#footer{
+   background-color: black; 
+   width:900px;
+   height: 30px;
+   text-align: center;
+   font-size: x-large;
+   padding: 10px;   
+   display: block;
+   position:relative;
+}
