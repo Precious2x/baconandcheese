@@ -60,7 +60,7 @@ body{
     padding-left: 10px;
     padding-right: 10px;
     font-family: Impact,'Arial Narrow Bold', sans-serif;
-    font-weight:500
+    font: weight 500px;
 }
 
 #navBar a:hover:not(.active){
